@@ -19,7 +19,7 @@
 
 O projeto consiste num gerador de descrições e títulos para vídeos do YouTube a partir da transcrição do conteúdo.
 
-O back-end do projeto está disponível neste repositório. Já o front-end está disponível [aqui](https://github.com/kayqueprogram).
+O back-end do projeto está disponível neste repositório. Já o front-end está disponível [aqui](https://github.com/kayqueprogram/update-ia-frontend.git).
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
