@@ -40,7 +40,7 @@ Para executar a aplicação em sua máquina localmente, certifique-se de ter o `
 1. Clone o projeto:
 
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/kayqueprogram/update-ia-backend.git
 ```
 
 2. Acesse a pasta do projeto:
